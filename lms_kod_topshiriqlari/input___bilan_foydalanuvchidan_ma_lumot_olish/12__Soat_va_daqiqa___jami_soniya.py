@@ -1,0 +1,5 @@
+hours = int(input())
+minutes = int(input())
+
+seconds = hours * 3600 + minutes * 60
+print(f"Seconds: {seconds}")
