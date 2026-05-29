@@ -1,0 +1,5 @@
+a_str = input()
+b_str = input()
+a_bool = (a_str == "True")
+b_bool = (b_str == "True")
+print(a_bool and b_bool)
