@@ -1,0 +1,1 @@
+print("Adult" if int(input()) >= 18 else "Minor")
