@@ -1,0 +1,1 @@
+print({"admin":"Admin","user":"User"}.get(input(),"Guest"))
