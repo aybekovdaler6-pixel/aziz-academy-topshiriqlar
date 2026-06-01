@@ -1,0 +1,1 @@
+a,b = map(int, input().split());print("Equal" if a == b else "Not equal")
