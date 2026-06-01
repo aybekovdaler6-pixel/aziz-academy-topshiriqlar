@@ -1,0 +1,1 @@
+print("Access granted" if input()=="1234" else "Denied")
