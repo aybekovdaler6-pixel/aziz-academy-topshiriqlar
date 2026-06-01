@@ -1,0 +1,1 @@
+t=int(input());print("Hot"if t>30 else"Cold")
