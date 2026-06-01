@@ -1,0 +1,1 @@
+n=int(input());print("Mon"if n==1 else"Wed"if n==3 else"Other")
