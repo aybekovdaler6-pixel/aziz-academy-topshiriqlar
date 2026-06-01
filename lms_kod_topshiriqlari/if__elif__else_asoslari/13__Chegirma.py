@@ -1,0 +1,1 @@
+p=float(input());print(p*0.9 if p>=100 else int(p))
