@@ -6,8 +6,8 @@
 
 `█░░░░░░░░░░░░░░░░░░░` **7%**  (12/179 mavzu)
 
-- ⭐ Jami ball: **22313**
-- 📤 GitHubga yuborilgan topshiriqlar: **428**
+- ⭐ Jami ball: **22418**
+- 📤 GitHubga yuborilgan topshiriqlar: **429**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
